@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'MrsSaintDelafield-Regular';
+    src: url('../fonts/MrsSaintDelafield-Regular.woff2') format('woff2'),
+           url('../fonts/MrsSaintDelafield-Regular.woff') format('woff');
+   font-weight: 500;
+   font-display: swap;
+}
+@font-face {
+    font-family: 'Notera_PersonalUseOnly';
+    src: url('../fonts/Notera_PersonalUseOnly.woff2') format('woff2'),
+           url('../fonts/Notera_PersonalUseOnly.woff') format('woff');
+   font-weight: 400;
+   font-display: swap;
+}
+@font-face {
+    font-family: 'Raleway-Light';
+    src: url('../fonts/Raleway-Light.woff2') format('woff2'),
+           url('../fonts/Raleway-Light.woff') format('woff');
+   font-weight: 300;
+   font-display: swap;
+}
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('../fonts/Raleway-Regular.woff2') format('woff2'),
+           url('../fonts/Raleway-Regular.woff') format('woff');
+   font-weight: 600;
+   font-display: swap;
+}
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url('../fonts/Raleway-SemiBold.woff2') format('woff2'),
+           url('../fonts/Raleway-SemiBold.woff') format('woff');
+   font-weight: 600;
+   font-display: swap;
+}
+@font-face {
+    font-family: 'Glyphter';
+    src: url('../fonts/Glyphter.eot');
+    src: url('../fonts/Glyphter.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Glyphter.woff') format('woff'),
+         url('../fonts/Glyphter.ttf') format('truetype'),
+         url('../fonts/Glyphter.svg#Glyphter') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
